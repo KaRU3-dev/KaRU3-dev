@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karu3-dev&label=Profile%20views&color=0e75b6&style=flat" alt="karu3-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karu3-dev" alt="karu3-dev" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/lap_karu3" target="blank"><img src="https://img.shields.io/twitter/follow/lap_karu3?logo=twitter&style=for-the-badge" alt="lap_karu3" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, Networks, Some Devs**
