@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karu3-dev&label=Profile%20views&color=0e75b6&style=flat" alt="karu3-dev" /> </p>
 
 - ✏️I'm currently learning
-    - Develope by Unity
+    - Develop by Unity
     - Computer basic
     - Linux server hosting
     - Network engineering
