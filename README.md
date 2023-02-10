@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.discordapp.com/attachments/1068640192409374761/1073730426193068032/KaRU3_anime_girl_nine_tails_shrine_maiden_cool_white_hair_r_4a50c923-c0c3-4fd5-b069-2d1957782e2d.png)
+<!--![MasterHead](https://cdn.discordapp.com/attachments/1068640192409374761/1073730426193068032/KaRU3_anime_girl_nine_tails_shrine_maiden_cool_white_hair_r_4a50c923-c0c3-4fd5-b069-2d1957782e2d.png)-->
 
 <h1 align="center">Hi, I'm KaRU3!</h1>
 <h3 align="center">I am an IT developer student from Japan. Right now I am studying game development, networking, server engineering, version control and front-end development.</h3>
