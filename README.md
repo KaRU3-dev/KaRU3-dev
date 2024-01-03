@@ -15,8 +15,8 @@ I am a student of developer and system engineer.<br>
 - Yurica API (in queue)
 
 ### SNS
-[Twitter (X)](https://x.com/KaRU3_dev)
-[Twitch](https://twitch.tv/karu3_dev)
+- [Twitter (X)](https://x.com/KaRU3_dev)
+- [Twitch](https://twitch.tv/karu3_dev)
 
 #
 
