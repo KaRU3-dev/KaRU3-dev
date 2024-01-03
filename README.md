@@ -10,13 +10,13 @@ I am a student of developer and system engineer.<br>
 - Assembly language, Compiler making
 
 ### I'm creating now...
-- [![Yurica for discord app](./Resource/Images/repository.png)](https://github.com/donverse-net/YuricaClient-for-discord)
+- [Yurica for discord app](https://github.com/donverse-net/YuricaClient-for-discord)
 - Yurica Cloud Platform (in queue)
 - Yurica API (in queue)
 
 ### SNS
-[![Twitter (X)](./Resource/Images/twitter_x.png)](https://x.com/KaRU3_dev)
-[![Twitch](./Resource/Images/twitch.png)](https://twitch.tv/karu3_dev)
+[Twitter (X)](https://x.com/KaRU3_dev)
+[Twitch](https://twitch.tv/karu3_dev)
 
 #
 
