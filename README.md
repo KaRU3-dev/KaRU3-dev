@@ -9,7 +9,7 @@ I am a student of developer and system engineer.<br>
 - C/C++ coding
 - Assembly language, Compiler making
 
-[![roadmap.sh](https://roadmap.sh/card/tall/66957c0a7635012c86843f73?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/66957c0a7635012c86843f73?variant=dark&roadmaps=full-stack%2Cproduct-manager%2Caws%2Csql)](https://roadmap.sh)
 
 ### I'm creating now...
 - [Yurica for discord app](https://github.com/donverse-net/YuricaClient-for-discord)
