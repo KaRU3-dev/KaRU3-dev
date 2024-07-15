@@ -9,6 +9,8 @@ I am a student of developer and system engineer.<br>
 - C/C++ coding
 - Assembly language, Compiler making
 
+[![roadmap.sh](https://roadmap.sh/card/tall/66957c0a7635012c86843f73?variant=dark)](https://roadmap.sh)
+
 ### I'm creating now...
 - [Yurica for discord app](https://github.com/donverse-net/YuricaClient-for-discord)
 - Yurica Cloud Platform (in queue)
