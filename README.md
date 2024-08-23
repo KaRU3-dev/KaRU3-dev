@@ -7,14 +7,9 @@ I am a student of developer and system engineer.<br>
 - Ubuntu hosting (Server/Container/Network)
 - C#/Java/JavaScript/Python application create
 - C/C++ coding
-- Assembly language, Compiler making
-
-[![roadmap.sh](https://roadmap.sh/card/wide/66957c0a7635012c86843f73?variant=dark&roadmaps=full-stack%2Cproduct-manager%2Csql%2Caws)](https://roadmap.sh)
 
 ### I'm creating now...
-- [Yurica for discord app](https://github.com/donverse-net/YuricaClient-for-discord)
-- Yurica Cloud Platform (in queue)
-- Yurica API (in queue)
+- [Yurica Projects](https://github.com/orgs/Donverse-old/teams/yuricaproject/repositories)
 
 ### SNS
 - [Twitter (X)](https://x.com/KaRU3_dev)
